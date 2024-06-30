@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/parita2003/Expense-Tracker/static/css/main.e19e8732.css",
+    "main.js": "/parita2003/Expense-Tracker/static/js/main.ae260656.js",
+    "index.html": "/parita2003/Expense-Tracker/index.html",
+    "main.e19e8732.css.map": "/parita2003/Expense-Tracker/static/css/main.e19e8732.css.map",
+    "main.ae260656.js.map": "/parita2003/Expense-Tracker/static/js/main.ae260656.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e19e8732.css",
+    "static/js/main.ae260656.js"
+  ]
+}
